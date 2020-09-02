@@ -1,8 +1,10 @@
 # ImageProcessingPILLOW
 A few basic PILLOW functions to help with image processing
-<br><br>
-1. Importing PILLOW / PIL
 <br>
+<br>
+
+<br>
+1. Importing PILLOW / PIL
 2. Loading an image
 <br>
 3. Basic Image attributes
