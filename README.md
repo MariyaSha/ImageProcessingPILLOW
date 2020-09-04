@@ -27,9 +27,11 @@ A few basic PILLOW functions to help with image processing
 <br>
 12. Gaussian Blur
 <br>
-13. Edge Detection
+13. Edge Detection with
 <br>
-14. Svaing the image back to the drive/computer
+14. Change the colour of the edge
+<br>
+15. Saving the image back to the drive/computer
 <br><br>
 <b>Author:</b> Mariya Sha
 <br>
